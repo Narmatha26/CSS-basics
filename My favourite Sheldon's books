@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>CSS Basics</title>
+    <style media="screen">
+      #header{
+        color:red;
+      }
+      .title{
+        color:blue;
+      }
+      .description{
+        color:black;
+      }
+
+    </style>
+  </head>
+  <body>
+    <h1 id="header">My list of favorite Sidney Sheldon books description</h1>
+    <div></div>
+        <h3 class = "title">The sky is falling</h3>
+        <div></div>
+    <p class = "description">The main character of this book is Dana Evans, an anchorwoman for the press, who was also featured, though not as a main character, in another Sidney Sheldon book, The Best Laid Plans.
+      The book begins with Dana Evans returning from Sarajevo with an armless adoptee, Kemal after filming war coverage for three months. Soon after, the last member of one of the most respected families in the world, Gary Winthrop dies after being shot by robbers.
+      Dana decides to set out to find why anybody would want to kill the family well known for its kindness and contributions to charity (all of Gary's relatives had died in suspicious circumstances one at a time before him).
+      After being repeatedly warned by the school principal for getting into fights and swearing, things finally reach a breaking point where the principal expels Kemal. Dana's boss's secretary, Elliot Cromwell helps Dana enroll Kemal in another school and refers her to an organization who help buy Kemal a prosthetic arm.
+      As Jeff Connors, Dana's fiancé takes care of Kemal, Dana thinks about a motive for murdering the Winthrops. She rules out money, as when the Winthrop family dies, the fortune goes to charity. She settles on revenge as a motive, and starts hunting for clues by visiting the places where the Winthrops died.
+        <div></div>
+    <hr></hr>
+    <div></div>
+    <h3 class = "title">Stars shine down</h3>
+      <div></div>
+    <p class = "description">The novel tells the story of Lara Cameron, a successful real estate developer who came from a broken family in Nova Scotia.
+      Lara's mother and her male twin die in their childbirth and her Scottish father, who collects rents for boarding houses, doesn't want her. Early in life, she learns to fend for herself and how to get her own way in a male-dominated world.
+      After her father's death due to a sudden heart failure, Lara takes up her father's job along with her own kitchen work in the boarding house. She meets a man called Charles Cohn who is much impressed by her. He hands her a contract for building.
+      To acquire a fine piece of land, she makes a deal with the owner of the boarding house to secure her first building in exchange for her body. Thrilled at her success, she moves to Chicago to start her real estate empire.
+      Even though she encounters many problems, she is able to overcome them all and become one of America's most successful businesswomen, and receives the nickname, "Iron Butterfly." She falls in love with a talented pianist, Philip Adler, and marries him.
+      She is on the verge of losing everything she has achieved as well as the one man she loves, but the Iron Butterfly miraculously recovers from all her shattered dreams and gains back all her hopes and the only man whom she ever truly loved.
+      </p>
+        <div></div>
+          <hr></hr>
+  <div></div>
+      <h3 class ="title">Morning,noon and night</h3>
+        <div></div>
+    <p class = "description">The Stanford family is one of the most respected in America - but behind the facade of fame and glamour lies a hidden web of blackmail, drugs and murder. When Harry Stanford, one of the wealthiest men in the world,mysteriously drowns while cruising on his yacht off the rugged coast of Corsica, it sets off a chain of events that reverberates around the globe.
+      At the family gathering following the funeral in Boston, a strikingly beautiful young woman appears. She claims to be Stanford's daughter and entitled to a share of the tycoon's estate.
+      Is she genuine, or is she an impostor? Sweeping from the splendors of the Italian Riviera, to the fashion salons of Paris and New York, and the opulence of Boston and Florida, Morning, Noon & Night twists and turns its way through intrigue, smoke and mirrors to a surprise ending you'll never forget.
+    </p>
+  </body>
+</html>
